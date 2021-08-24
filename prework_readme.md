@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/oshKCtD.gif)
+![](https://user-images.githubusercontent.com/88856401/130538050-6f80a507-62e4-47bf-bb5c-ffe57a04482a.gif)
+
 
 
 
@@ -35,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The biggest challenge I had was writing in a different programming language because I am used to C++. This language was very different to me and harder to understand. I also had difficulty with creating a Github repository. There is so much to learn and understand about Github!
+The biggest challenge I had was writing in a different programming language because I am used to C++. This language was very different to me and harder to understand. I attempted to do the Currency Convertor, however, my difficulty was that I could not get my settings View Controller to attach itself to the View Controller. I tried to watching youtube videos, reading stack overflow, and various other resources but I kept running into the same problem! When I ran the Tip Calculator the calculations were fine but the minute I clicked settings it would freeze! I also attempted to the dark mode feature, however, it was the same problem as the currency convertor....I also had difficulty with creating a Github repository. There is so much to learn and understand about Github! To be honest, this project was very difficult for me but I found that through the difficulty that I had started understanding some things about Swift that previously frustrated me! I felt a lot more at ease working through the settings and attributes and got a more farmiliar with the language. I want to be able to learn how to properly use swift with Xcode. 
 
 ## License
 
