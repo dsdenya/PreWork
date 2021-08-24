@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    @IBOutlet weak var SettingsButton: UIBarButtonItem!
     @IBOutlet weak var billAmountTextField: UITextField!
     @IBOutlet weak var tipAmountLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
@@ -37,7 +39,10 @@ class ViewController: UIViewController {
         
     }
     
-    
+    @IBAction func BillAmountText_field(_ sender: Any) {
+        performSegue(withIdentifier: "name", sender: self)
+        
+    }
     
     
 }

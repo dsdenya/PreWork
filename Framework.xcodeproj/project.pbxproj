@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA0CD67926D3671D00095DD5 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0CD67826D3671D00095DD5 /* SettingsViewController.swift */; };
+		DA0D4ABC26D44E15006B7414 /* CurrencyRates.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0D4ABB26D44E15006B7414 /* CurrencyRates.swift */; };
 		DA3B38C426CDC75800499812 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B38C326CDC75800499812 /* AppDelegate.swift */; };
 		DA3B38C626CDC75800499812 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B38C526CDC75800499812 /* SceneDelegate.swift */; };
 		DA3B38C826CDC75800499812 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3B38C726CDC75800499812 /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DA0CD67826D3671D00095DD5 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = SOURCE_ROOT; };
+		DA0D4ABB26D44E15006B7414 /* CurrencyRates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyRates.swift; sourceTree = "<group>"; };
 		DA3B38C026CDC75800499812 /* Framework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Framework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA3B38C326CDC75800499812 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA3B38C526CDC75800499812 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 				DA3B38C326CDC75800499812 /* AppDelegate.swift */,
 				DA3B38C526CDC75800499812 /* SceneDelegate.swift */,
 				DA3B38C726CDC75800499812 /* ViewController.swift */,
+				DA0CD67826D3671D00095DD5 /* SettingsViewController.swift */,
+				DA0D4ABB26D44E15006B7414 /* CurrencyRates.swift */,
 				DA3B38C926CDC75800499812 /* Main.storyboard */,
 				DA3B38CC26CDC76000499812 /* Assets.xcassets */,
 				DA3B38CE26CDC76000499812 /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				DA3B38C826CDC75800499812 /* ViewController.swift in Sources */,
 				DA3B38C426CDC75800499812 /* AppDelegate.swift in Sources */,
 				DA3B38C626CDC75800499812 /* SceneDelegate.swift in Sources */,
+				DA0D4ABC26D44E15006B7414 /* CurrencyRates.swift in Sources */,
+				DA0CD67926D3671D00095DD5 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
