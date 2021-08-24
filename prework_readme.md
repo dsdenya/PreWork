@@ -4,7 +4,7 @@
 
 Submitted by: **Shoya**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://user-images.githubusercontent.com/88856401/130538050-6f80a507-62e4-47bf-bb5c-ffe57a04482a.gif)
+![]![ezgif com-video-to-gif](https://user-images.githubusercontent.com/88856401/130538241-173a8251-f017-4ab9-8546-91588cb41c27.gif)
+
 
 
 
